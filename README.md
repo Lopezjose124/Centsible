@@ -1,9 +1,10 @@
-```
+<pre align="center">
  ██████╗███████╗███╗   ██╗████████╗███████╗██╗██████╗ ██╗     ███████╗
 ██╔════╝██╔════╝████╗  ██║╚══██╔══╝██╔════╝██║██╔══██╗██║     ██╔════╝
 ██║     █████╗  ██╔██╗ ██║   ██║   ███████╗██║██████╔╝██║     █████╗  
 ██║     ██╔══╝  ██║╚██╗██║   ██║   ╚════██║██║██╔══██╗██║     ██╔══╝  
 ╚██████╗███████╗██║ ╚████║   ██║   ███████║██║██████╔╝███████╗███████╗
  ╚═════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝╚═════╝ ╚══════╝╚══════╝
-```
-The one project to rule my repo graveyard....... Because money (and side projects) deserve structure.
+</pre>
+<p align="center"><i>The one project to rule my repo graveyard....... Because money (and side projects) deserve structure.</i></p>
+
